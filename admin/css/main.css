@@ -1,0 +1,99 @@
+
+* {
+
+    margin: 0;
+    padding: 0;
+    outline: none;
+
+}
+body{
+    background: #f5f5f0;
+}
+.phpcoding {
+
+    width: 900px;
+    margin: 0 auto;
+    background: #ddd;
+
+}
+.headeroption {
+    background: #444 url("../images/adminbanner.png") no-repeat scroll 0 0;
+    border-bottom: 2px solid #444444;
+    height: 100px;
+}
+.maincontent {
+
+    font-size: 18px;
+    min-height: 430px;
+    padding: 20px;
+
+}
+
+.menu {
+
+    overflow: hidden;
+
+}
+.main {
+
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #999;
+    margin-top: 10px;
+    min-height: 368px;
+    padding: 15px;
+    width: 828px;
+
+}
+.menu>ul{
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+.menu>ul>li {
+
+    display: block;
+    float: left;
+
+}
+.menu>ul>li>a {
+
+    border: 1px solid #bdbdbd;
+    border-radius: 3px;
+    color: #444;
+    display: block;
+    margin: 0 5px 5px;
+    padding: 1px 10px 3px;
+    text-decoration: none;
+
+}
+
+.main>h1 {
+
+    background: #f4f4f4 none repeat scroll 0 0;
+    box-shadow: 2px 2px 0 1px #999;
+    color: #666;
+    margin: 10px auto 25px;
+    padding: 4px;
+    text-align: center;
+    width: 620px;
+
+}
+
+
+.headeroption>h2, .footeroption>h2 {
+
+    margin: 0;
+    font-size: 24px;
+
+}
+
+.footeroption {
+
+    background: #444;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+
+}

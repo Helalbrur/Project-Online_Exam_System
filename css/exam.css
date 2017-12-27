@@ -1,0 +1,31 @@
+.maincontent>h1{
+
+	margin: 5px;
+	text-align: center;
+	box-shadow: 2px 2px 0px 1px #999;
+	color: black;
+	padding: 5px;
+	background: #F5F5DC;
+	border: 1px solid #bdbdbd;
+	border-radius: 5px;
+}
+.maincontent>a{
+	text-decoration: none;
+	border: 1px solid #bdbdbd;
+	border-radius: 5px;
+	padding: 5px 15px;
+	margin-left:48%;
+}
+.maincontent>a:hover{
+	text-decoration: none;
+	border: 1px solid #bdbdbd;
+	border-radius: 5px;
+	padding: 10px 25px;
+	margin-left:48%;
+	background: lightblue;
+
+}
+.exam>img{
+	margin-left: 40%;
+	margin-top: 2%;
+}

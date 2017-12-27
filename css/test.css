@@ -1,0 +1,20 @@
+.test {
+    border: 1px solid #f3f3f3;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+}
+.test>h3 {
+    border-bottom: 1px solid #f3f3f3;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.test>form{
+	margin-left: 100px;
+}
+.test>input[type="radio"]{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}

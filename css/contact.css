@@ -1,0 +1,33 @@
+
+input[type="text"]{
+	border: 1px solid #ddd;
+	margin-bottom: 10px;
+	padding: 5px;
+	width: 100%;
+}
+input[type="submit"]{
+
+	padding: 5px;
+	width: 50px;
+	border-radius: 7px;
+	cursor: pointer;
+}
+.contact{
+
+	margin-top: 3%;
+	margin-left: 25%;
+	margin-bottom: 3%;
+	padding: 6%;
+	width: 55%;
+	border:1px solid #bdbdbd;
+	border-radius: 5px;
+	background: #efefef;
+}
+.textMessage{
+	min-width: 300px;
+	min-height: 250px;
+}
+/*.contact>textarea{
+	width: 80%;
+	height: 80%;
+}*/
